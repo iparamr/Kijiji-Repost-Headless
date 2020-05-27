@@ -1,0 +1,34 @@
+postAdForm.title: Books for Sale - $5 each
+postAdForm.priceAmount: '5'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+postAdForm.description: 'Miscellaneous Technical Books for Sale - $5 each\n\n-Systems
+  Analysis and Design\n- Visual Basic Programming\n- Maya 7 Animation Software\n-
+  PHP for the world wide web\n- Object Oriented Approach\n- Object-Oriented Software
+  Engineering\n\n\nKEYWORDS: cheap reading books, great deal. coding, computer programming,
+  software, IT, PHP, JavaScript, Angular, OOPS, Visual Studio, Sublime, Java, C#,
+  C++, React'
+categoryId: 14970001
+image_paths:
+- 'img/Books/Books to Sell_Page_4_Image_0001.jpg'
+- 'img/Books/Books to Sell_Page_2_Image_0001.jpg'
+- 'img/Books/Books to Sell_Page_3_Image_0001.jpg'
+- 'img/Books/Books to Sell_Page_1_Image_0001.jpg'
+- 'img/Books/Books to Sell_Page_5_Image_0001.jpg'
+- 'img/Books/Books to Sell_Page_6_Image_0001.jpg'
