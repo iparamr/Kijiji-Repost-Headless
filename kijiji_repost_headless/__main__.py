@@ -106,9 +106,14 @@ def show_ads(args, api=None):
         api.login(args.username, args.password)
     all_ads = sorted(api.get_all_ads(), key=lambda k: k[args.sort_key], reverse=args.sort_reverse)
 
-    print("    id    ", "page", "views", "          title")
-    [print("{ad_id:10} {rank:4} {views:5} '{title}'".format(
+#     JSON DUMP
+#     for key in all_ads:
+#         print (key)
+
+    print("    id    ", "categoryId", "page", "views", "          title")
+    [print("{ad_id:10} {category_id:10} {rank:4} {views:5} '{title}'".format(
         ad_id=ad['id'],
+        category_id=ad['categoryId'],
         rank=ad['rank'],
         views=ad['views'],
         title=ad['title']
