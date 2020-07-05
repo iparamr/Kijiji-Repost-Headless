@@ -1,0 +1,57 @@
+postAdForm.attributeMap[laptopbrand_s]: laptopapple
+postAdForm.attributeMap[laptopscreensize_s]: laptop15inch
+postAdForm.title: 'MacBook Pro 15" (Intel i7)'
+postAdForm.priceAmount: '999'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+postAdForm.description: 'Also, including the laptop case and remote control for free! :)\nLatest High-
+  Sierra OS on it\n- Late 2011 Model\nApple MacBook Pro Core i7 2.3 GHz Specs
+  (Late 2011 15&quot;, MD035LL/A, MacBookPro8,2 - A1286 (EMC 2353-1)) \nApple
+  MacBook Pro &quot;Core i7&quot; 2.3 15&quot;\nAbout This Mac\n\nStorage\nThe
+  MacBook Pro comes with a 1 TB storage, Serial ATA (5400 RPM) hard disk
+  drive.\n\nScreen Size and Resolution\nThis MacBook Pro is a 15.4” screen
+  version with a widescreen TFT active-matrix and a 1440&times;900 resolution.
+  The screen is also LED-backlit.\n\nInclusive Features\n\nThe MacBook Pro
+  includes the following features and ports:\n\n\n8X DL “SuperDrive”\nAirPort
+  Extreme (802.11a/b/g/n) which allows connection to the best Wi-Fi bands
+  available\nBluetooth 2.1+ EDR allowing for quick PAN (Personal Area Network)
+  connections and transfers\nFireWire 800 port\nGigabit Ethernet is provided for
+  your Local Area Network (LAN) connections\nTwo USB 2.0 Ports are supplied for
+  the connection of external keyboards, printers, external hard disks
+  etc.\nOptical digital audio in/out for connecting some external audio
+  equipment like headphones and microphones\nThunderbolt standard port that is
+  backward compatible with a Mini DisplayPort and can support an audio signal
+  and a 2560&times;1600 resolution\nSDXC Card Slot\nNo button glass multi-touch
+  trackpad with support for new “four finger” gestures and programmable
+  zones\nFace Time HD webcam\n \n\nProcessor &amp; Graphics Processing Unit
+  (GPU)\nThis MacBook Pro comes with a pre-installed MacOS X 10.6.6 (10J3210),
+  2.3 GHz Intel Core i7 2820QM (Sandy Bridge) processor and dual graphics
+  processors – an AMD Radeon HD 6750M with 1 GB of dedicated GDDR5 memory and an
+  Intel HD Graphics 3000 graphics processor that shares 384 MB of memory with
+  the system.\n\nMemory &amp; Architecture\n\nYour applications installed on the
+  MacBook Pro are also guaranteed to run faster with a 256k level 2 cache and a
+  8 MB Level 3 cache plus a 5 GT/s frontside bus with 4 GB of 1333 MHz DDR3
+  SDRAM (PC3 – 10600) for its RAM.  All of this is centered around a 64-Bit
+  architecture.\n\nBattery Life\nThe MacBook Pro comes with a 77.5-watt-hour
+  lithium polymer battery that provides 7 hours of wireless web use.'
+categoryId: 773
+image_paths:
+  - 'img/MacBook Pro 2011/IMG_0122.jpeg'
+  - 'img/MacBook Pro 2011/IMG_0124.jpeg'
+  - 'img/MacBook Pro 2011/IMG_0125.jpeg'

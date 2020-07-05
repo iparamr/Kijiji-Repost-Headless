@@ -1,4 +1,4 @@
-postAdForm.title: Canon  10.0 Megapixel Digital Camera - Trendy and slick
+postAdForm.title: 'Canon  10.0 Megapixel Digital Camera - Trendy and slick'
 postAdForm.priceAmount: '120'
 postAdForm.phoneNumber: 647-793-6060
 postAdForm.adType: OFFER
@@ -18,8 +18,7 @@ PostalLng: '-79.40783287719299'
 locationLevel0: 1700272
 topAdDuration: '7'
 submitType: saveAndCheckout
-postAdForm.description: >-
-  Was Purchased for over $300. Selling for only $120.\n$120\nAlso, included for
+postAdForm.description: 'It was Purchased for over $300. Selling for only $120.\n$120\nAlso, included for
   FREE. Camera case, memory card, and all accessories.\n\nTrendy and slick 10.0
   Megapixel camera expands the Digital ELPH line to allow greater freedom when
   editing and printing.\n4x Optical Zoom with Optical Image Stabilizer plus a
@@ -32,8 +31,8 @@ postAdForm.description: >-
   anything.\nPrint/Share Button for easy direct printing and downloading, plus
   ID Photo Print and Movie Print with select PIXMA Photo Printers and SELPHY
   Compact Photo Printers.\n\nDigital Camera, DSLR, Zoom, Latest Camera, Android,
-  Sony, Samsung, Nikon
+  Sony, Samsung, Nikon'
 categoryId: 103
 image_paths:
-  - img/Canon Camera/22744.jpg
-  - img/Canon Camera/canon-powershot-sd880-is-digital-camera-10-mp-4x-optical-zoom-and-3-lcd-f1dffed341e868f059da9a265408d425.jpg
+  - 'img/Canon Camera/1.jpg'
+  - 'img/Canon Camera/2.jpg'
