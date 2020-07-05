@@ -1,0 +1,27 @@
+postAdForm.title: 'Cables and Adaptors'
+postAdForm.priceAmount: '5'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+categoryId: 26
+postAdForm.description: 'Lots of cables and adaptors for sale:\n\n1. USB cable - $5\n2. Micro USB cable
+  - $5\n3. DVI to VGA adaptor - $10\n4. Network cable - $5\n6. DVI to DVI cable
+  - $10\n7.  Thunderbolt to HDMI and DVI adaptor - $25\n\nPrice is mostly
+  between $5 and $30 depending on the cable or adaptor.'
+image_paths:
+  - 'img/Cables and Adaptors/1.jpg'

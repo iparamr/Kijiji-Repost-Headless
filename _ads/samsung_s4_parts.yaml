@@ -1,0 +1,26 @@
+postAdForm.title: 'Spare Parts for Samsung Galaxy S4'
+postAdForm.priceAmount: '5'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+categoryId: 15
+postAdForm.description: 'Selling spare parts for Samsung Galaxy S4 - wind mobile or CDMA phones.\n\nI
+  have \n- Bezel\n- Back Camera\n\nprice varies for each item but great deal'
+image_paths:
+  - 'img/Phone S4/1.jpg'
+  - 'img/Phone S4/2.jpg'

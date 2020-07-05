@@ -1,0 +1,33 @@
+postAdForm.title: 'Eureka Bagless Vacuum Cleaner'
+postAdForm.priceAmount: '50'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+categoryId: 699
+postAdForm.description: 'Specs\nFeatures: \nWhirlWind&copy; Cyclonic Technology\nFiltration: Charcoal
+  HEPA Filter #HF-7\nDust Container: Bagless with Flip-Bottom Dust Cup\nMotor:
+  12 amp\nHandle: Comfort-Grip Oval\nHose: Deluxe Stretch\nCord Length: 30
+  ft\nDust Cup Filter: DCF-21\nBelt: Style-U\nCleaning Path: 15 in\nTools: Hair
+  Raiser&copy; for Pets, PET Power Paw&copy;, Pet Upholstery Brush, Crevice Tool
+  &amp; Extra Long Wand\nWeight: 19.6 lbs'
+image_paths:
+  - 'img/Vacuum Cleaner/1.jpg'
+  - 'img/Vacuum Cleaner/2.jpg'
+  - 'img/Vacuum Cleaner/3.jpg'
+  - 'img/Vacuum Cleaner/4.jpg'
+  - 'img/Vacuum Cleaner/5.jpg'
