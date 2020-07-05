@@ -18,10 +18,12 @@ PostalLng: '-79.40783287719299'
 locationLevel0: 1700272
 topAdDuration: '7'
 submitType: saveAndCheckout
+categoryId: 103
 postAdForm.description: 'It was Purchased for over $300. Selling for only $120.\n$120\nAlso, included for
   FREE. Camera case, memory card, and all accessories.\n\nTrendy and slick 10.0
   Megapixel camera expands the Digital ELPH line to allow greater freedom when
-  editing and printing.\n4x Optical Zoom with Optical Image Stabilizer plus a
+  editing and printing. \nPoint and shoot digital camera
+  \n4x Optical Zoom with Optical Image Stabilizer plus a
   28mm wide-angle lens gets you up close and personal to your subjects as well
   as capture more in your frame.\nLarge high-quality 3.0-inch PureColour LCD II
   for bright, accurate colour with wide viewing angle and an anti-glare,
@@ -32,7 +34,6 @@ postAdForm.description: 'It was Purchased for over $300. Selling for only $120.\
   ID Photo Print and Movie Print with select PIXMA Photo Printers and SELPHY
   Compact Photo Printers.\n\nDigital Camera, DSLR, Zoom, Latest Camera, Android,
   Sony, Samsung, Nikon'
-categoryId: 103
 image_paths:
   - 'img/Canon Camera/1.jpg'
   - 'img/Canon Camera/2.jpg'

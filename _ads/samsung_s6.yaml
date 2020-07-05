@@ -1,0 +1,44 @@
+postAdForm.attributeMap[phonebrand_s]: smsung
+postAdForm.attributeMap[phonecarrier_s]: unlck
+postAdForm.title: 'Samsung Galaxy S6 - UNLOCKED, Mint Condition'
+postAdForm.priceAmount: '399'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+categoryId: 760
+postAdForm.description: >-
+  $399\nPerfect Condition Samsung Galaxy S6 cell phone, android, unlocked with
+  box, just like brand new. Gold Colour\nComes with original Spigen case - was
+  purchased for over $30. Also, for FREE all accessories are included.\n\nWill
+  work with any carrier - Bell, Fido, Rogers, Virgin Mobile, Freedom Mobile,
+  Koodo, Telus, Chatr, Public, Videotron, or any
+  other\n\nNETWORK\t\nTechnology\t\nGSM / HSPA /
+  LTE\n\nLAUNCH\t\nAnnounced\t\n2015, March\nStatus\tAvailable. Released 2015,
+  April\n\nBODY\t\nDimensions\t\n143.4 x 70.5 x 6.8 mm (5.65 x 2.78 x 0.27
+  in)\nWeight\t138 g (4.87 oz)\nBuild\tFront/back glass (Gorilla Glass 4),
+  aluminum frame\n\nSIM\t\nNano-SIM\n \t- Samsung Pay (Visa, MasterCard
+  certified)\n\nDISPLAY\t\nType\tSuper AMOLED capacitive touchscreen, 16M
+  colors\nSize\t5.1 inches, 71.5 cm2 (~70.7% screen-to-body
+  ratio)\nResolution\t1440 x 2560 pixels, 16:9 ratio (~577 ppi
+  density)\nMultitouch\tYes\nProtection\tCorning Gorilla Glass 4\n \t- TouchWiz
+  UI\n\nSamsung, Sony, LG, iPhone 7, iPhone 8, iPhone X, iPhone XS, Nokia,
+  Motorola
+image_paths:
+  - 'img/Phone S6/1.jpg'
+  - 'img/Phone S6/2.jpg'
+  - 'img/Phone S6/3.jpg'

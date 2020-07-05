@@ -1,0 +1,30 @@
+postAdForm.attributeMap[phonebrand_s]: apple
+postAdForm.attributeMap[phonecarrier_s]: unlck
+postAdForm.title: 'iPhone 7 Plus, 128 GB, JET BLACK, Mint Condition'
+postAdForm.priceAmount: '699'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+categoryId: 760
+postAdForm.description: 'Selling my iPhone 7 Plus 128 GB Jet Black, Unlocked\n$699\nThe Phone is in
+  immaculate condition, not even a scratch on it. I will throw in some free
+  accessories with this package.\nSelling is because I upgraded to a new phone.'
+image_paths:
+  - 'img/iPhone 7 Plus/1.jpg'
+  - 'img/iPhone 7 Plus/2.jpg'
+  - 'img/iPhone 7 Plus/3.jpg'

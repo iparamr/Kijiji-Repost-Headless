@@ -18,6 +18,7 @@ PostalLng: '-79.40783287719299'
 locationLevel0: 1700272
 topAdDuration: '7'
 submitType: saveAndCheckout
+categoryId: 655
 postAdForm.description: 'Make every beat count with Fitbit Charge 2—the all-new heart rate and fitness
   wristband built for all-day, workouts and beyond. PurePulse continuous heart
   rate makes it easy to maximize workouts, better track calorie burn and get a
@@ -47,7 +48,6 @@ postAdForm.description: 'Make every beat count with Fitbit Charge 2—the all-ne
   devices.\n*   Operating temperature: 14 degree to 113 degree fahrenheit,
   Maximum operating altitude: 30,000 feet\n*   The minimum and maximum
   circumference range between 140 - 170 millimeters'
-categoryId: 655
 image_paths:
   - 'img/Fitbit/1.jpg'
   - 'img/Fitbit/2.jpg'
