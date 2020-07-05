@@ -1,7 +1,6 @@
-echo "Enter your Kijiji username (email):"
-read USER
-echo "Enter your Kijiji password:"
-read PASS
+read -p "Enter your Kijiji username (email): " USER
+read -sp "Enter your Kijiji password: " PASS
+echo
 echo
 echo "==== SHOWING LIVE ADS! ===="
 python3 kijiji_repost_headless -u $USER -p $PASS show --key id
