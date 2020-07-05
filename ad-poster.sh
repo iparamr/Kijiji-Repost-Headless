@@ -32,5 +32,11 @@ python3 kijiji_repost_headless -u $USER -p $PASS post _ads/iphone_case_8_xs_max.
 echo "==== SAMSUNG GALAXY S6 ===="
 python3 kijiji_repost_headless -u $USER -p $PASS post _ads/samsung_s6.yaml
 
+echo "==== SAMSUNG GALAXY S6 FLIP CASE ===="
+python3 kijiji_repost_headless -u $USER -p $PASS post _ads/samsung_case_s6_flip_cover.yaml
+
+echo "==== SAMSUNG GALAXY S6 CLEAR CASE ===="
+python3 kijiji_repost_headless -u $USER -p $PASS post _ads/samsung_case_s6_clear_case.yaml
+
 echo "==== LOGITECH PERFORMANCE MX MOUSE ===="
 python3 kijiji_repost_headless -u $USER -p $PASS post _ads/logitech_mx_mouse.yaml

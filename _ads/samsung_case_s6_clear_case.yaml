@@ -1,0 +1,27 @@
+postAdForm.title: 'Samsung Galaxy S6 CLEAR CASE protector'
+postAdForm.priceAmount: '10'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+categoryId: 761
+postAdForm.description: 'Samsung Galaxy S6 CLEAR CASE for protection against scratches.\n\nSamsung, LG,
+  Apple, Nokia'
+image_paths:
+  - 'img/Phone S6 Case Clear/1.jpg'
+  - 'img/Phone S6 Case Clear/2.jpg'
+  - 'img/Phone S6 Case Clear/3.jpg'
