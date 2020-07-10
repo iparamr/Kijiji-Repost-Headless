@@ -2,7 +2,7 @@ postAdForm.attributeMap[laptopbrand_s]: laptopapple
 postAdForm.attributeMap[laptopscreensize_s]: laptop15inch
 postAdForm.title: 'MacBook Pro 15" (Intel i7)'
 postAdForm.priceAmount: '999'
-postAdForm.phoneNumber: 647-793-6060
+#postAdForm.phoneNumber: 647-793-6060
 postAdForm.adType: OFFER
 postAdForm.attributeMap[forsaleby_s]: ownr
 postAdForm.priceType: FIXED

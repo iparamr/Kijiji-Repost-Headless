@@ -1,6 +1,6 @@
 postAdForm.title: 'Canon  10.0 Megapixel Digital Camera - Trendy and slick'
 postAdForm.priceAmount: '120'
-postAdForm.phoneNumber: 647-793-6060
+#postAdForm.phoneNumber: 647-793-6060
 postAdForm.adType: OFFER
 postAdForm.attributeMap[forsaleby_s]: ownr
 postAdForm.priceType: FIXED
