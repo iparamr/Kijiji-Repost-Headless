@@ -21,7 +21,7 @@ submitType: saveAndCheckout
 categoryId: 26
 postAdForm.description: 'Lots of cables and adaptors for sale:\n\n1. USB cable - $5\n2. Micro USB cable
   - $5\n3. DVI to VGA adaptor - $10\n4. Network cable - $5\n6. DVI to DVI cable
-  - $10\n7.  Thunderbolt to HDMI and DVI adaptor - $25\n\nPrice is mostly
+  - $15\n7.  Thunderbolt to HDMI and DVI adaptor - $25\n\nPrice is mostly
   between $5 and $30 depending on the cable or adaptor.'
 image_paths:
   - 'img/Cables and Adaptors/1.jpg'
