@@ -9,7 +9,7 @@ echo
 echo "==== BOOKS ===="
 python3 kijiji_repost_headless -s ssid.txt repost _ads/books.yaml
 echo
-echo "==== CAMERA ===="
+echo "==== CANON CAMERA ===="
 python3 kijiji_repost_headless -s ssid.txt post _ads/camera.yaml
 echo
 echo "==== MACBOOK PRO ===="
@@ -47,3 +47,6 @@ python3 kijiji_repost_headless -s ssid.txt post _ads/vacuum_cleaner.yaml
 echo
 echo "==== SILK TIE ===="
 python3 kijiji_repost_headless -s ssid.txt post _ads/silk_tie.yaml
+echo
+echo "==== IKEA MATTRESS ===="
+python3 kijiji_repost_headless -s ssid.txt post _ads/mattress.yaml

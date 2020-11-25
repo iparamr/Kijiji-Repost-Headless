@@ -1,0 +1,30 @@
+postAdForm.title: 'Memory foam mattress, firm/white Queen'
+postAdForm.priceAmount: '550'
+postAdForm.phoneNumber: 647-793-6060
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+categoryId: 246
+postAdForm.description: >-
+  Memory foam mattress, firm/white Queen\n\nBrand new in box (BNIB)
+  \n\nThe memory foam does its magic while you sleep. It molds to your body
+  so you feel snug, and the comfort zones provide pressure relief and support
+  precisely where you need it.
+image_paths:
+  - img/Mattress/1.jpg
+  - img/Mattress/2.jpg
+  - img/Mattress/3.jpg
