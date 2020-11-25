@@ -1,53 +1,49 @@
-read -p "Enter your Kijiji username (email): " USER
-read -sp "Enter your Kijiji password: " PASS
-echo
-echo
 echo "==== SHOWING LIVE ADS! ===="
-python3 kijiji_repost_headless -u $USER -p $PASS show --key id
+python3 kijiji_repost_headless -s ssid.txt show --key id
 echo
 echo "==== DELETE ALL ADS! ===="
-python3 kijiji_repost_headless -u $USER -p $PASS nuke
+python3 kijiji_repost_headless -s ssid.txt nuke
 echo
 echo "==== REPOST ALL ADS! ===="
 echo
 echo "==== BOOKS ===="
-python3 kijiji_repost_headless -u $USER -p $PASS repost _ads/books.yaml
+python3 kijiji_repost_headless -s ssid.txt repost _ads/books.yaml
 echo
 echo "==== CAMERA ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/camera.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/camera.yaml
 echo
 echo "==== MACBOOK PRO ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/macbook_pro.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/macbook_pro.yaml
 echo
 echo "==== FITBIT ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/fitbit.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/fitbit.yaml
 echo
 echo "==== IPHONE 7 PLUS ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/iphone_7_plus.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/iphone_7_plus.yaml
 echo
 echo "==== IPHONE CASE (SPIGEN) 8 PLUS / XS MAX ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/iphone_case_8_xs_max.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/iphone_case_8_xs_max.yaml
 echo
 echo "==== SAMSUNG GALAXY S6 ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/samsung_s6.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/samsung_s6.yaml
 echo
 echo "==== SAMSUNG GALAXY S6 FLIP CASE ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/samsung_case_s6_flip_case.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/samsung_case_s6_flip_case.yaml
 echo
 echo "==== SAMSUNG GALAXY S6 CLEAR CASE ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/samsung_case_s6_clear_case.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/samsung_case_s6_clear_case.yaml
 echo
 echo "==== SAMSUNG GALAXY S4 ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/samsung_s4_parts.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/samsung_s4_parts.yaml
 echo
 echo "==== LOGITECH PERFORMANCE MX MOUSE ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/logitech_mx_mouse.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/logitech_mx_mouse.yaml
 echo
 echo "==== CABLES AND ADAPTORS ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/cables_and_adaptors.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/cables_and_adaptors.yaml
 echo
 echo "==== EUREKA VACUUM CLEANER ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/vacuum_cleaner.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/vacuum_cleaner.yaml
 echo
 echo "==== SILK TIE ===="
-python3 kijiji_repost_headless -u $USER -p $PASS post _ads/silk_tie.yaml
+python3 kijiji_repost_headless -s ssid.txt post _ads/silk_tie.yaml
