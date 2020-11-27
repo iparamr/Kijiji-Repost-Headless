@@ -1,6 +1,6 @@
 postAdForm.attributeMap[size_s]: medium
 postAdForm.title: 'Silk Tie for Sale'
-postAdForm.priceAmount: '20'
+postAdForm.priceAmount: '1'
 postAdForm.phoneNumber: 647-793-6060
 postAdForm.adType: OFFER
 postAdForm.attributeMap[forsaleby_s]: ownr
@@ -20,7 +20,7 @@ locationLevel0: 1700272
 topAdDuration: '7'
 submitType: saveAndCheckout
 categoryId: 278
-postAdForm.description: 'Black silver gray grey metal.\nSee pics for details.
+postAdForm.description: '$20\n\nBlack silver gray grey metal.\nSee pics for details.
   \nWaterstone silk tie for men'
 image_paths:
   - 'img/Silk Tie/1.jpg'

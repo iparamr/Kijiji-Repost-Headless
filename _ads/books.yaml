@@ -1,5 +1,5 @@
 postAdForm.title: 'Books for Sale - $5 each'
-postAdForm.priceAmount: '5'
+postAdForm.priceAmount: '1'
 postAdForm.phoneNumber: 647-793-6060
 postAdForm.adType: OFFER
 postAdForm.attributeMap[forsaleby_s]: ownr
@@ -19,7 +19,7 @@ locationLevel0: 1700272
 topAdDuration: '7'
 submitType: saveAndCheckout
 categoryId: 14970001
-postAdForm.description: 'Miscellaneous Technical Books for Sale - $5 each\n\n-Systems
+postAdForm.description: '$5 each\n\nMiscellaneous Technical Books for Sale - $5 each\n\n-Systems
   Analysis and Design\n- Visual Basic Programming\n- Maya 7 Animation Software\n-
   PHP for the world wide web\n- Object Oriented Approach\n- Object-Oriented Software
   Engineering\n\n\nKEYWORDS: cheap reading books, great deal. coding, computer programming,

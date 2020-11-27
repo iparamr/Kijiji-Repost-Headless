@@ -1,7 +1,7 @@
 postAdForm.attributeMap[laptopbrand_s]: laptopapple
 postAdForm.attributeMap[laptopscreensize_s]: laptop15inch
 postAdForm.title: 'MacBook Pro 15" (Intel i7)'
-postAdForm.priceAmount: '999'
+postAdForm.priceAmount: '1'
 #postAdForm.phoneNumber: 647-793-6060
 postAdForm.adType: OFFER
 postAdForm.attributeMap[forsaleby_s]: ownr
@@ -21,7 +21,7 @@ locationLevel0: 1700272
 topAdDuration: '7'
 submitType: saveAndCheckout
 categoryId: 773
-postAdForm.description: 'Also, including the laptop case and remote control for free! :)\nLatest High-
+postAdForm.description: '$999\n\nAlso, including the laptop case and remote control for free! :)\nLatest High-
   Sierra OS on it\n- Late 2011 Model\nApple MacBook Pro Core i7 2.3 GHz Specs
   (Late 2011 15&quot;, MD035LL/A, MacBookPro8,2 - A1286 (EMC 2353-1)) \nApple
   MacBook Pro &quot;Core i7&quot; 2.3 15&quot;\nAbout This Mac\n\nStorage\nThe

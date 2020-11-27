@@ -1,7 +1,7 @@
 postAdForm.attributeMap[phonebrand_s]: apple
 postAdForm.attributeMap[phonecarrier_s]: unlck
 postAdForm.title: 'iPhone 7 Plus, 128 GB, JET BLACK, Mint Condition'
-postAdForm.priceAmount: '699'
+postAdForm.priceAmount: '1'
 #postAdForm.phoneNumber: 647-793-6060
 postAdForm.adType: OFFER
 postAdForm.attributeMap[forsaleby_s]: ownr
@@ -21,7 +21,7 @@ locationLevel0: 1700272
 topAdDuration: '7'
 submitType: saveAndCheckout
 categoryId: 760
-postAdForm.description: 'Selling my iPhone 7 Plus 128 GB Jet Black, Unlocked\n$699\nThe Phone is in
+postAdForm.description: '$699\n\nSelling my iPhone 7 Plus 128 GB Jet Black, Unlocked\n$699\nThe Phone is in
   immaculate condition, not even a scratch on it. I will throw in some free
   accessories with this package.\nSelling is because I upgraded to a new phone.'
 image_paths:

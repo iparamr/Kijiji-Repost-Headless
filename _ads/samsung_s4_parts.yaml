@@ -1,5 +1,5 @@
 postAdForm.title: 'Spare Parts for Samsung Galaxy S4'
-postAdForm.priceAmount: '5'
+postAdForm.priceAmount: '1'
 postAdForm.phoneNumber: 647-793-6060
 postAdForm.adType: OFFER
 postAdForm.attributeMap[forsaleby_s]: ownr
@@ -19,7 +19,7 @@ locationLevel0: 1700272
 topAdDuration: '7'
 submitType: saveAndCheckout
 categoryId: 15
-postAdForm.description: 'Selling spare parts for Samsung Galaxy S4 - wind mobile or CDMA phones.\n\nI
+postAdForm.description: '$5\n\nSelling spare parts for Samsung Galaxy S4.\n\nI
   have \n- Bezel\n- Back Camera\n\nprice varies for each item but great deal'
 image_paths:
   - 'img/Phone S4/1.jpg'
