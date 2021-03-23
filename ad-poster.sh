@@ -1,8 +1,19 @@
+DELETE=$1
+echo
 echo "Showing all live ads..."
 python3 kijiji_repost_headless -s ssid.txt show --key id
-echo "Deleting all ads..."
-python3 kijiji_repost_headless -s ssid.txt nuke
+
+if $DELETE -eq True; then
+  echo
+  echo "Deleting all ads..."
+  python3 kijiji_repost_headless -s ssid.txt nuke
+fi
+
+echo
 echo "Reposting all ads..."
+echo
+echo "FURNISHED ROOM"
+python3 kijiji_repost_headless -s ssid.txt post _ads/room_furnished.yaml
 echo
 echo "IKEA MATTRESS"
 python3 kijiji_repost_headless -s ssid.txt post _ads/mattress.yaml

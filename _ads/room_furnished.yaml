@@ -1,0 +1,45 @@
+postAdForm.title: Private Furnished Room / Attached Bathroom / Balcony
+postAdForm.addressStreetNumber: ''
+postAdForm.addressStreetName: ''
+postAdForm.addressCity: North York
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M4N 2N9
+postAdForm.priceAmount: '100'
+postAdForm.phoneNumber: '647-793-6060'
+postAdForm.adType: OFFER
+postAdForm.attributeMap[furnished_s]: '1'
+postAdForm.attributeMap[petsallowed_s]: '0'
+postAdForm.priceType: FIXED
+postAdForm.city: North York
+postAdForm.province: Ontario
+postAdForm.postalCode: M4N 2N9
+postAdForm.geocodeLat: '43.742407'
+postAdForm.geocodeLng: '-79.40783287719299'
+postAdForm.locationId: 1700273
+PostalLat: '43.742407'
+PostalLng: '-79.40783287719299'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+postAdForm.description: 'Short Term 4-month Rental in Private Furnished Room with Attached bathroom and Balcony
+\nRent $1000 Utilities Included.
+\nAvailable April 17.
+\nIf you are interested please reply with a brief introduction.
+\nFurnished private room with the attached private bathroom in a three-bedroom unit
+\n- looking for someone clean
+\n- non smoker
+\n- responsible, student or working professional
+\n- references, proof of employment and security deposit required
+\n- Non-smoking or pets
+\n- Downtown skyline view from room and balcony
+\n- Suitable for one person, working professional and/or student
+\n- Close to amenities
+\n- References required
+\n- Security deposit required'
+categoryId: 36
+image_paths:
+  - img/RoomFurnished/1.jpg
+  - img/RoomFurnished/2.jpg
+  - img/RoomFurnished/3.jpg
+  - img/RoomFurnished/4.jpg
+  - img/RoomFurnished/5.jpg
