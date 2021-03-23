@@ -33,9 +33,6 @@ echo
 echo "SAMSUNG GALAXY S6"
 python3 kijiji_repost_headless -s ssid.txt post _ads/samsung_s6.yaml
 echo
-echo "LOGITECH PERFORMANCE MX MOUSE"
-python3 kijiji_repost_headless -s ssid.txt post _ads/logitech_mx_mouse.yaml
-echo
 echo "EUREKA VACUUM CLEANER"
 python3 kijiji_repost_headless -s ssid.txt post _ads/vacuum_cleaner.yaml
 echo
